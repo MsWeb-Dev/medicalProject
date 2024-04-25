@@ -1,0 +1,39 @@
+/* Home.css */
+.home-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .news-section {
+    margin-top: 20px;
+  }
+  
+  .offer-section {
+    margin-top: 40px;
+  }
+  
+  .news-section h2,
+  .offer-section h2 {
+    font-size: 24px;
+    color: #333;
+  }
+  
+  .news-section ul {
+    list-style-type: none;
+    padding-left: 0;
+  }
+  
+  .news-section ul li {
+    margin-bottom: 10px;
+  }
+  
+  .offer-section p {
+    font-size: 18px;
+    line-height: 1.5;
+  }
+  .home-container{
+    display: flex;
+    flex-direction: column;
+   
+  }

@@ -1,0 +1,27 @@
+/* about.css */
+
+.about {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    margin-top: 5%;
+    color:rgb(122, 122, 243);
+  }
+  
+  .about h1 {
+    font-size: 30px;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  .about p {
+    font-size: 18px;
+    line-height: 1.6;
+    color: #666;
+    margin-bottom: 15px;
+  }
+  
+  .about p:last-child {
+    margin-bottom: 0;
+  }
+  

@@ -1,0 +1,58 @@
+/* contact.css */
+.contact {
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: center;
+    border: #ffffff 1px solid;
+    margin-top: 5%;
+    /* justify-content: sp; */
+     height: 100vh;
+  }
+  
+  .contact form {
+    margin-top: 10%;
+  }
+  
+  .contact label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .contact input[type="text"],
+  .contact input[type="email"],
+  .contact select {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+  }
+  
+  .contact button {
+    width: 100%;
+    padding: 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .contact button:hover {
+    background-color: #45a049;
+  }
+  
+  /* contact.css */
+
+.contact textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    
+    resize: vertical; /* tekislash imkoniyatini o'rnatish */
+
+  }
+  
