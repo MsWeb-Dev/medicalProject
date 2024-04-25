@@ -1,6 +1,6 @@
 import React from 'react';
 import './css/about.css';
-
+import heart from '../img/heart.png';
 
 function About() {
   return (
@@ -9,7 +9,7 @@ function About() {
       <p>
         Yurak qon tomir kasalliklari (CVD), yurakning yuqori rivojlanish darajasi va qon tomirlariga zarar yetkazish orqali belgilangan kasalliklar guruhiga mansub bo'lgan biroq turli shakl va shakllarda yuzaga keladigan bir qator kasalliklarni ifodalaydi. Yurak qon tomir kasalliklari dunyoda eng ko'p o'lan kasalliklar o'ringida joylashgan.
       </p>
-      <img src="../../public/img/heart.jpg" alt='Yurak' className='heart-image' />
+      <img src={heart} alt='Yurak' className='heart-image' />
       <p>
         Yurak qon tomir kasalliklarining ko'pchilik o'zi natijalar tarkibidagi mukofotlar va o'zgarmagan ovqat tarkibida yuqori miqdorda yashil sabzavot va meva iste'mol qilish, moddalar ro'yxatini kamaytirish, tuzsiz, yog'siz yem ma'lumotlar bilan bog'liq.
       </p>
