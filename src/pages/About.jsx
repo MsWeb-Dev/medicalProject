@@ -1,6 +1,7 @@
 import React from 'react';
 import './css/about.css';
-import heart from '../img/heart.jpg';
+import heart from '../public/img/heart.png';
+
 
 function About() {
   return (
