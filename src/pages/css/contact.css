@@ -5,8 +5,9 @@
     text-align: center;
     border: #ffffff 1px solid;
     margin-top: 5%;
-    /* justify-content: sp; */
      height: 100vh;
+     display: flex;
+     justify-content: center;
   }
   
   .contact form {
@@ -55,4 +56,6 @@
     resize: vertical; /* tekislash imkoniyatini o'rnatish */
 
   }
-  
+  .contact{
+    margin-top: 5%;
+  }

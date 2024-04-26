@@ -38,6 +38,7 @@ function Home() {
 					tibbiyot xizmatlarini taqdim etish, yuqori sifatli ta'lim berish va
 					tibbiyotning rivojlanishini ta’minlashda o‘z ta'assurini ko‘rsatadi.
 				</h3>
+				<br /><br />
 			</div>
 		</div>
 	)

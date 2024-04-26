@@ -4,7 +4,7 @@
     max-width: 800px;
     margin: 0 auto;
     padding: 20px;
-    margin-top: 5%;
+    margin-top: 7%;
     color:rgb(122, 122, 243);
   }
   
@@ -25,3 +25,10 @@
     margin-bottom: 0;
   }
   
+  .heart-image{
+    display: flex;
+    justify-content: center;
+    object-fit: contain;
+    width: 50%;
+    height: 50vh;
+  }
